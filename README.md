@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+DAY 1
+Installing Node and React.
+
+DAY 2
+Making UI interface for the project for better visualization and coding.
+
+DAY 3
+Coding and creating Frontend page of the website.

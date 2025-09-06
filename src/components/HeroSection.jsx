@@ -1,6 +1,8 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './HeroSection.css'; // Optional for custom styling
+import './HeroSection.css'; 
+import { Link } from 'react-router-dom';
+
 
 
 const HeroSection = () => {
@@ -21,8 +23,8 @@ const HeroSection = () => {
             <li className="nav-item"><a className="nav-link nav-hover" href="/contact">Contact Us</a></li>
           </ul>
           <div>
-            <a className="btn btn-outline-primary me-2" href="/login">Login</a>
-            <a className="btn btn-primary" href="/register">Sign Up</a>
+           <Link className="btn btn-outline-primary me-2" to="/login">Login</Link>
+          <Link className="btn btn-primary" to="/register">Sign Up</Link>
           </div>
         </div>
       </nav>
