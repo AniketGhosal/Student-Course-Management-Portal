@@ -77,3 +77,6 @@ Making UI interface for the project for better visualization and coding.
 
 DAY 3
 Coding and creating Frontend page of the website.
+
+DAY 4 (1st report, 10:00 AM - 11:00 AM) - 06/09/2025, Saturday.
+Added Login and Sign Up Pages (Using Login, user will redirected to their dashboard from where they can easily track their courses. If they don't have any account, then they are easily create an account using Sign Up functionality).
