@@ -88,3 +88,7 @@ Added Login and Sign Up Pages (Using Login, user will redirected to their dashbo
 _2nd Report:_
 In this half, I focused on PostgreSQL. I followed its full Documentation to learn PostgreSQL database. Focusing on its architecture, ACID compliance, and object-relational model. Clearly understood the differences between PostgreSQL and MySQL. Learned its advance datatype, different types of queries. 
 The PostgreSQL was successfully installed and configured. Then exlpored its interface and database object management.
+
+_3rd Report:_
+In this half, I am continuing with the PostgreSQL documentation. Learning Indexing, Joins, multiple functionality base operation etc. 
+Also designing the UI portion of Course tab (in this course tab, multiple courses are displayed, which will easily be enrolled from the student side. Using React Router and API feature, this page can easily accessable from the Homepage).
