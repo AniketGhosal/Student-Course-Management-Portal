@@ -92,3 +92,12 @@ The PostgreSQL was successfully installed and configured. Then exlpored its inte
 _3rd Report:_
 In this half, I am continuing with the PostgreSQL documentation. Learning Indexing, Joins, multiple functionality base operation etc. 
 Also designing the UI portion of Course tab (in this course tab, multiple courses are displayed, which will easily be enrolled from the student side. Using React Router and API feature, this page can easily accessable from the Homepage).
+
+
+**DAY 5**
+**MONDAY - 08/09/2025**
+
+_1st Report:_
+Started the Backend portion for the project. Reading the documentation for Backend setup with Node.js. Studied its event-driven architecture, non-blocking I/O model, and modules like 'http' and 'fs'. Also studied about Request and Response feature of Node.js.
+
+
