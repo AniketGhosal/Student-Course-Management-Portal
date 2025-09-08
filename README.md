@@ -77,3 +77,22 @@ Making UI interface for the project for better visualization and coding.
 
 DAY 3
 Coding and creating Frontend page of the website.
+
+
+
+DAY 4 SATURDAY - 06/09/2025
+
+1st report: Added Login and Sign Up Pages (Using Login, user will redirected to their dashboard from where they can easily track their courses. If they don't have any account, then they are easily create an account using Sign Up functionality).
+
+2nd Report: In this half, I focused on PostgreSQL. I followed its full Documentation to learn PostgreSQL database. Focusing on its architecture, ACID compliance, and object-relational model. Clearly understood the differences between PostgreSQL and MySQL. Learned its advance datatype, different types of queries. The PostgreSQL was successfully installed and configured. Then exlpored its interface and database object management.
+
+_3rd Report:_
+In this half, I am continuing with the PostgreSQL documentation. Learning Indexing, Joins, multiple functionality base operation etc. 
+Also designing the UI portion of Course tab (in this course tab, multiple courses are displayed, which will easily be enrolled from the student side. Using React Router and API feature, this page can easily accessable from the Homepage).
+
+
+DAY 5 MONDAY - 08/09/2025
+
+1st Report: Started the Backend portion for the project. Reading the documentation for Backend setup with Node.js. Studied its event-driven architecture, non-blocking I/O model, and modules like 'http' and 'fs'. Also studied about Request and Response feature of Node.js.
+
+2nd Report: Continuing with the Backend portion. Setting up different modules in Backend for handling Frontend. 
