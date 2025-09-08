@@ -102,4 +102,6 @@ Started the Backend portion for the project. Reading the documentation for Backe
 
 _2nd Report:_ Continuing with the Backend portion. Setting up different modules in Backend for handling Frontend. 
 
+_3rd Report:_ Doing some changes in Login and SignUp module. Create database schemas named - Student, Enrollements and Admin in PostgreSQL. Connecting multiple module - Home, Courses & Pricing, Contact Us with React Router feature. 
+
 
