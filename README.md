@@ -100,4 +100,6 @@ Also designing the UI portion of Course tab (in this course tab, multiple course
 _1st Report:_
 Started the Backend portion for the project. Reading the documentation for Backend setup with Node.js. Studied its event-driven architecture, non-blocking I/O model, and modules like 'http' and 'fs'. Also studied about Request and Response feature of Node.js.
 
+_2nd Report:_ Continuing with the Backend portion. Setting up different modules in Backend for handling Frontend. 
+
 
