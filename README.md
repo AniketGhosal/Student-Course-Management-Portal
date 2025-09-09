@@ -105,3 +105,10 @@ _2nd Report:_ Continuing with the Backend portion. Setting up different modules 
 _3rd Report:_ Doing some changes in Login and SignUp module. Create database schemas named - Student, Enrollements and Admin in PostgreSQL. Connecting multiple module - Home, Courses & Pricing, Contact Us with React Router feature. 
 
 
+**DAY 6**
+**MONDAY - 09/09/2025**
+
+_1st Report:_
+Continuing with backend setup with Node.js. Creating first server using Node.js and successfully tested using 'req()' and 'res()' methods.
+
+
