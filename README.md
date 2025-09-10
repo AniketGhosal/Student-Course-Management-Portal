@@ -118,3 +118,5 @@ Continuing with backend setup with Node.js. Creating first server using Node.js 
 _1st Report:_
 Started with the backend portion. Today's focus is on storing Login and SignUp data in the database and then, using Backend functionality Student's and Admin's are redirected to their portal. Managing Database for this and connecting it with the backend.
 
+_2nd Report:_
+Installed Express and setup module with it. Designing UI for Admin panel for implementation.
