@@ -120,3 +120,6 @@ Started with the backend portion. Today's focus is on storing Login and SignUp d
 
 _2nd Report:_
 Installed Express and setup module with it. Designing UI for Admin panel for implementation.
+
+_3rd Report:_
+Completed the design of Database. Implementing connection of 'SignUp' button i.e., when User will click SignUp button and give their details, their given data will be stored in the database and that data will be easily accessable from PostgreSQL database.
