@@ -119,3 +119,7 @@ DAY 7 WEDNESDAY - 10/09/2025
 DAY 8 THURSDAY - 11/09/2025
 
 1st Report: Started with the backend again. Today's focus is on to handle Admin panel and Student Panel simultaneously i.e., Student's are redirected to their student interface and Admin's are redirected to their Admin panel interface.
+
+2nd Report: Continuing coding for Student and Admin panel functionality.
+
+
