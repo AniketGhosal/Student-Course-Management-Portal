@@ -123,3 +123,8 @@ Installed Express and setup module with it. Designing UI for Admin panel for imp
 
 _3rd Report:_
 Completed the design of Database. Implementing connection of 'SignUp' button i.e., when User will click SignUp button and give their details, their given data will be stored in the database and that data will be easily accessable from PostgreSQL database.
+
+
+**DAY 8 THURSDAY - 11/09/2025**
+
+_1st Report:_ Started with the backend again. Today's focus is on to handle Admin panel and Student Panel simultaneously i.e., Student's are redirected to their student interface and Admin's are redirected to their Admin panel interface.
