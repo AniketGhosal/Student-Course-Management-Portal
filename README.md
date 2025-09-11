@@ -106,14 +106,14 @@ _3rd Report:_ Doing some changes in Login and SignUp module. Create database sch
 
 
 **DAY 6**
-**MONDAY - 09/09/2025**
+**TUESDAY - 09/09/2025**
 
 _1st Report:_
 Continuing with backend setup with Node.js. Creating first server using Node.js and successfully tested using 'req()' and 'res()' methods.
 
 
 **DAY 7**
-**MONDAY - 10/09/2025**
+**WEDNESDAY - 10/09/2025**
 
 _1st Report:_
 Started with the backend portion. Today's focus is on storing Login and SignUp data in the database and then, using Backend functionality Student's and Admin's are redirected to their portal. Managing Database for this and connecting it with the backend.
