@@ -56,12 +56,13 @@
 .enroll-btn {
   font-weight: 500;
   padding: 8px 20px;
-  transition: background-color 0.3s ease, transform 0.3s ease;
+  transition: color 0.3s ease, transform 0.3s ease;
 }
 
 .enroll-btn:hover {
   background-color: #0b5ed7;
   transform: scale(1.05);
+  color: white;
 }
 
 /* Explore button */

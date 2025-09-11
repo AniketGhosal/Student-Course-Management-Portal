@@ -1,5 +1,6 @@
 import React from 'react';
 import './CoursesSection.css';
+import { NavLink } from 'react-router-dom';
 
 const courses = [
   {
@@ -58,7 +59,7 @@ const CoursesSection = () => {
           ))}
         </div>
         <div className="text-center mt-4">
-          <button className="btn btn-outline-success explore-btn">Explore More Courses</button>
+          <button className="btn btn-outline-success explore-btn"><NavLink className="nav-link nav-hover-course" to="/courses" activeClassName="active-link">Explore More Courses</NavLink></button>
         </div>
       </div>
     </div>

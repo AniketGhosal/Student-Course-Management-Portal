@@ -2,6 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './HeroSection.css'; 
 import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 
 
 
@@ -18,7 +19,7 @@ const HeroSection = () => {
           <ul className="navbar-nav me-3">
             <li className="nav-item"><a className="nav-link nav-hover" href="/">Home</a></li>
             <li className="nav-item"><a className="nav-link nav-hover" href="/about">About</a></li>
-            <li className="nav-item"><a className="nav-link nav-hover" href="/courses">Courses</a></li>
+            <li className="nav-item"><NavLink className="nav-link nav-hover" to="/courses" activeClassName="active-link">Courses</NavLink></li>
             <li className="nav-item"><a className="nav-link nav-hover" href="/pricing">Pricing</a></li>
             <li className="nav-item"><a className="nav-link nav-hover" href="/contact">Contact Us</a></li>
           </ul>

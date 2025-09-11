@@ -96,3 +96,6 @@ DAY 5 MONDAY - 08/09/2025
 1st Report: Started the Backend portion for the project. Reading the documentation for Backend setup with Node.js. Studied its event-driven architecture, non-blocking I/O model, and modules like 'http' and 'fs'. Also studied about Request and Response feature of Node.js.
 
 2nd Report: Continuing with the Backend portion. Setting up different modules in Backend for handling Frontend. 
+
+_3rd Report:_
+Completed the design of Database. Implementing connection of 'SignUp' button i.e., when User will click SignUp button and give their details, their given data will be stored in the database and that data will be easily accessable from PostgreSQL database.

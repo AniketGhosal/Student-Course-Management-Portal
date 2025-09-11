@@ -15,7 +15,7 @@ const Login = () => {
       {/* Left Side with Image */}
       <div className="col-md-6 auth-image-section d-none d-md-flex align-items-center justify-content-center">
         <div className="overlay-text text-white text-center px-4">
-          <h2>Start your career with <span className="brand">1Stop</span></h2>
+          <h2>Start your career with <span className="brand">CampusHub</span></h2>
           <p>Login using your registered email ID to continue.</p>
         </div>
       </div>

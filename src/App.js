@@ -28,6 +28,7 @@ import GuidelineSection from './components/GuidelinesSection';
 import FooterSection from './components/FooterSection';
 import Login from './components/Auth/Login.jsx';
 import Register from './components/Auth/Register.jsx';
+import CoursesPage from './components/Coursepage/Coursespage';
 
 function App() {
   return (
@@ -44,6 +45,7 @@ function App() {
         } />
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
+        <Route path="/courses" element={<CoursesPage />} />
       </Routes>
     </Router>
   );
